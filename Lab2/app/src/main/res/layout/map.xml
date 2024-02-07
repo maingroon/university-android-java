@@ -11,7 +11,7 @@
         android:digits="0123456789.,"
         android:ems="10"
         android:id="@+id/editCoordinates"
-        android:hint="55.754283,37.62002"/>
+        android:hint="50.9216,34.80029"/>
 
     <Button
         android:id="@+id/btnMap"
