@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string-array name="beer_types">
+        <item>light</item>
+        <item>amber</item>
+        <item>brown</item>
+        <item>dark</item>
+    </string-array>
+</resources>
